@@ -47,6 +47,7 @@ b {
     width: 1652px;
     display: flex;
     position: relative;
+    right: 0;
     transition: 0.5s ease 0s;
 }
 
